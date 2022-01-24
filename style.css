@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://frpnet.net/wp-content/uploads/2015/01/kucuk-prens-banner.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    font-family: 'Lobster Two', cursive;
+}
+#first-div{
+    border: 5px solid yellow ;
+    overflow: auto;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    width: 97%;
+    height:685px;
+}
+#paragraph-div{
+    background-color:rgba(0, 0, 0, 0.5);
+    float: left;
+    width: 83%;
+    border-radius: 5rem;
+    padding: 30px;
+    box-sizing: border-box;
+    color:bisque;
+    font-size:larger;
+}
+img{
+    width: 13%;
+    float: left;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 6rem;
+    margin-bottom: 1rem;
+    border-radius: 20px;
+}
+p{
+    text-align: justify;
+}
+#title{
+    text-align: center;
+    font-size: 4.5rem;
+}
+#p-title{
+    color: rgb(102, 15, 15);
+    text-align: center;
+}
